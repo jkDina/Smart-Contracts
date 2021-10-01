@@ -354,7 +354,7 @@
                                     "name": "abi",
                                     "nodeType": "Identifier",
                                     "overloadedDeclarations": [],
-                                    "referencedDeclaration": 495,
+                                    "referencedDeclaration": 663,
                                     "src": "321:3:2",
                                     "typeDescriptions": {
                                       "typeIdentifier": "t_magic_abi",
@@ -415,7 +415,7 @@
                           "name": "keccak256",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 502,
+                          "referencedDeclaration": 670,
                           "src": "310:9:2",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_keccak256_pure$_t_bytes_memory_ptr_$returns$_t_bytes32_$",
@@ -1566,7 +1566,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 502,
+                                  "referencedDeclaration": 670,
                                   "type": "function (bytes memory) pure returns (bytes32)",
                                   "value": "keccak256"
                                 },
@@ -1623,7 +1623,7 @@
                                               "overloadedDeclarations": [
                                                 null
                                               ],
-                                              "referencedDeclaration": 495,
+                                              "referencedDeclaration": 663,
                                               "type": "abi",
                                               "value": "abi"
                                             },
@@ -2368,13 +2368,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0xE2adcD59578E1E4F5E771609a344FCaCaBB78D75",
-      "transactionHash": "0xd275fb6c3745b7a8b3ba378c1c75dd013d70e77dcb081671112903bd2d6764da"
+      "address": "0x873523E63C61C59C6e13b7Fc3b45B96dE3f66E64",
+      "transactionHash": "0x88bdd20a554b3fabbe3f529984a77ae8cb24d6d65703d53e97bd9a9e55282013"
     }
   },
   "schemaVersion": "3.4.3",
-  "updatedAt": "2021-09-30T11:07:31.775Z",
-  "networkType": "ethereum",
+  "updatedAt": "2021-10-01T10:14:04.804Z",
   "devdoc": {
     "methods": {}
   },

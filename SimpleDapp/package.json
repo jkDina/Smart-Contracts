@@ -1,0 +1,15 @@
+{
+    "name": "voting",
+    "version": "1.0.0",
+    "description": "Voting",
+    "main": "Voting.js",
+    "dependencies": {
+        "ganache-cli": "^6.9.1",
+        "solc": "^0.5.0",
+        "web3": "^1.2.6"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node_modules/.bin/testrpc"
+    }
+}
